@@ -13,7 +13,7 @@ em ambas as rotas foi instanciadas as bibliotecas "express", "axios" e "node-htm
 onde todos tem sua variavel
 
 Primeira rota ('/cachorros') 
-1º crio o vetor cachorros para a população dos dados
+1º crio o vetor cachorros para a população dos dados \n
 2º crio a variavel URL para a requisição do site
 3º uso a biblioteca axios na url para fazer a requisao e guardo na variavel
 "requisao"
